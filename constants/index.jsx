@@ -1,4 +1,3 @@
-// constants/index.jsx
 
 // Array of resume objects
 export const resumes = [
