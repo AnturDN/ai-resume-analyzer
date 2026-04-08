@@ -1,5 +1,5 @@
 
-// Array of resume objects
+
 export const resumes = [
   {
     id: "1",
