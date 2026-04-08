@@ -1,4 +1,4 @@
-import React, { useCallback } from 'react';
+
 import '../App.css';
 import Navbar from './Navbar';
 import { resumes } from '../../constants';
