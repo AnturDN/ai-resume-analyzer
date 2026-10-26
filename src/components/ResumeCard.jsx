@@ -5,6 +5,7 @@ import ScoreCircle from "./ScoreCircle";
 const ResumeCard = ({
   resume: { id, companyName, jobTitle, feedback, imagePath },
 }) => {
+  
   return (
     <Link
       to={`/resume/${id}`}
